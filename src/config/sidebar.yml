@@ -12,6 +12,8 @@
       link: '/research-groups/pedagogy'
     - label: 'Sonic studies'
       link: '/research-groups/sonic-studies'  
+- label: 'Courses'
+  link: '/courses'
 - label: 'People'
   link: '/people'
 - label: 'Get in touch'
