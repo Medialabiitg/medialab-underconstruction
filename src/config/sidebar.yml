@@ -4,8 +4,8 @@
   link: '/'
 - label: Research Groups
   items:
-    - label: 'Data visualisation'
-      link: '/research-groups/data-visualisation'
+    - label: 'Data visualization'
+      link: '/research-groups/data-visualization'
     - label: 'Design speculation'
       link: '/research-groups/design-speculation'
     - label: 'Pedagogy'
