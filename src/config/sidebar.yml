@@ -1,14 +1,18 @@
 # Sidebar navigation
 
-- label: 'Introduction'
+- label: 'About'
   link: '/'
-- label: 'Getting started'
-  link: '/getting-started'
-- label: Usage
+- label: Research Groups
   items:
-    - label: 'Creating docs'
-      link: '/usage/creating-docs'
-    - label: 'Navigation'
-      link: '/usage/navigation'
-    - label: 'Shadowing'
-      link: '/usage/shadowing'
+    - label: 'Data visualisation'
+      link: '/research-groups/data-visualisation'
+    - label: 'Design speculation'
+      link: '/research-groups/design-speculation'
+    - label: 'Pedagogy'
+      link: '/research-groups/pedagogy'
+    - label: 'Sonic studies'
+      link: '/research-groups/sonic-studies'
+ - label: 'People'
+   link: '/people'
+ - label: 'Get in touch'
+   link: '/get-in-touch'
