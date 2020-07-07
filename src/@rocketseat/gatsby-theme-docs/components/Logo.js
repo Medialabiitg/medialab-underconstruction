@@ -1,5 +1,5 @@
 import styled from '@emotion/styled';
-import logo from 'https://i.imgur.com/sp7KcDp.png';
+import logo from './logo.svg';
 export default styled.div`
   width: 160px;
   height: 36px;
